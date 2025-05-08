@@ -1,7 +1,7 @@
 id = "zed-slack-mcp"
 name = "Zed Slack MCP"
 description = "Zed Extension for Slack's Model Context Server"
-version = "0.1.0"
+version = "0.0.1"
 schema_version = 1
 authors = ["Semih Berkay Öztürk <semihozt@gmail.com"]
 repository = "https://github.com/semioz/zed-slack-mcp"
