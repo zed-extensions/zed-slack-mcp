@@ -34,7 +34,7 @@ impl zed::Extension for SlackModelContextExtension {
             zed::npm_install_package(PACKAGE_NAME, &latest_version)?;
         }
 
-        let settings = ContextServerSettings::for_project("zed-slack-mcp", project)?;
+        let settings = ContextServerSettings::for_project("mcp-server-slack", project)?;
         let Some(settings) = settings.settings else {
             return Err("missing `slack_bot_token` setting".into());
         };

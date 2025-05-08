@@ -22,7 +22,7 @@ You will need to obtain the following values from your Slack App configuration:
 ```json
 {
   "context_servers": {
-    "zed-slack-mcp": {
+    "mcp-server-slack": {
       "settings": {
         "slack_bot_token": "SLACK_BOT_TOKEN",
         "slack_team_id":  "SLACK_TEAM_ID",
