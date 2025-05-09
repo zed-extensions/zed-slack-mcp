@@ -1,6 +1,6 @@
 id = "mcp-server-slack"
-name = "Zed Slack MCP"
-description = "Zed Extension for Slack's Model Context Server"
+name = "Slack MCP Server"
+description = "Slack's Model Context Server"
 version = "0.0.1"
 schema_version = 1
 authors = ["Semih Berkay Öztürk <semihozt@gmail.com"]
